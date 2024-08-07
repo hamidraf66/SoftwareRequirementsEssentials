@@ -1,0 +1,9 @@
+@font-face {
+  font-family: SGKara;
+  scr: url(fonts/SGKara-Light_p30download.com.ttf) format('ttf');
+}
+
+body {
+  font-family: SGkara;
+  direction = rtl;
+}
