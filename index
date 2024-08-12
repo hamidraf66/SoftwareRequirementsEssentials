@@ -1,1 +1,73 @@
+<!DOCTYPE html>
+<html lang="fa-IR" >
+<head>
+	<title>ضروریات نیازمندی‌های نرم‌افزار</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="css/style.css" />
+</head>
+<body >
+	
 
+	<h1 class="heading">ضروریات نیازمندی‌های نرم‌افزار</h1>
+
+	<ol>
+		<li>ضروریات نیازمندی‌های نرم‌افزار</li>
+		<li>گذاردن مبانی</li>
+		<li>استخراج نیازمندی‌ها</li>
+	</ol>
+
+	<h2 class="heading">فصل سوم: استخراج نیازمندی‌ها</h2>
+	<p>اولین گام در تحلیل نیازمندی‌ها، استخراج نیازمندی‌هاست.</p>
+	<table cellspacing="10" cellpadding="5" border="1">
+		<caption>برخی از تکنیک‌های معمول استخراج نیازمندی‌ها</caption>
+		<tr>	
+			<th>شرکت‌کنندگان</th>
+			<th>فعالیت‌ها</th>
+		</tr>	
+		<tr>	
+			<td>تحلیلگر کسب و کار</td>
+			<td>
+				<ul>
+					<li>تحلیل سند</li>
+					<li>تحلیل فرآیند و محصول موجود</li>
+					<li>تحلیل رابط کابری سیستم</li>
+					<li>تحلیل رابط کاربری کاربر</li>
+					<li>تحلیل و داده‌کاوی</li>
+				</ul>
+			</td>
+		</tr>	
+
+		<tr>	
+			<td>ذینفعان و تحلیلگر کسب و کار</td>
+			<td>
+				<ul>
+					<li>ورکشاپ‌های گروهی تسهیل‌شده</li>
+					<li>تحلیل سناریو</li>
+					<li>مشاهده کاربران در کار</li>
+					<li>مدل کردن فرآیند</li>
+					<li>گروه‌های تمرکز</li>
+					<li>طوفان فکری</li>
+					<li>نگاشت ذهن</li>
+					<li>پروتوتایپ کردن</li>
+					<li>ابزارهای همکاری مانند ویکی‌ها و انجمن‌های بحث</li>
+					<li>مرورها و پرسشنامه‌ها</li>
+				</ul>
+			</td>
+		</tr>	
+
+	
+	</table>
+
+	<br />
+
+
+<a href="https://hamidrezaakbarfakhrabadi.website2.me/" target=_blank">
+<p>حمیدرضا اکبرفخرآبادی</p>
+<img src="me.jpg" alt="Hamid" title="حمیدرضا اکبرفخرآبادی"  width="400" height="300"  /> 
+</a>
+</p>
+<a href="https://www.systemgroup.net/" target="_blank">همکاران سیستم</a>
+
+</body>
+</html>
