@@ -38,7 +38,7 @@ body{
   text-align:center;
 }
 
-figcaption {
+.caption {
   font-style: italic;
   text-align: center;
 }
